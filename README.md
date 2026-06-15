@@ -2,14 +2,14 @@
 <!--              ANIQ ZHARFANN — GITHUB PROFILE               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HEADER WAVE + NAME -->
+<!-- HEADER — waving, stable, confirmed render -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0010,50:3d0066,100:0d0010&height=250&section=header&text=ANIQ%20ZHARFANN&fontSize=70&fontColor=ff2dff&fontAlignY=55&desc=full-stack%20dev%20%2F%2F%20johor%2C%20my%20%F0%9F%87%B2%F0%9F%87%BE&descSize=18&descAlignY=75&descFontColor=00e5ff&animation=fadeIn&stroke=ff2dff&strokeWidth=1" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0010,50:3d0066,100:0d0010&height=220&section=header&text=ANIQ%20ZHARFANN&fontSize=65&fontColor=ff2dff&fontAlignY=50&desc=full-stack%20dev%20%2F%2F%20johor%2C%20my&descSize=16&descAlignY=68&descFontColor=00e5ff&animation=fadeIn" />
 </div>
 
-<!-- ANIMATED TYPING — ROLES -->
+<!-- TYPING ROLES -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=FF2DFF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=40&lines=⚡+Full-Stack+Web+Developer;🛠+WordPress+%2F+WooCommerce+Engineer;⚛️+React+%2F+Next.js+Builder;🔥+Laravel+in+progress...;🚀+Freelancing+@+jombina.site" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=FF2DFF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Full-Stack+Web+Developer;WordPress+%2F+WooCommerce+Engineer;React+%2F+Next.js+Builder;Laravel+in+progress...;Freelancing+%40+jombina.site" />
 </div>
 
 <br/>
@@ -29,11 +29,7 @@
 
 ---
 
-<!-- BIO TERMINAL BLOCK -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=00e5ff&center=true&vCenter=true&repeat=false&width=680&height=20&lines=──────────────────────────────────────────────────────────────────" />
-</div>
-
+<!-- BIO -->
 ```yaml
 ❯ whoami
   name   : Mohamad Aniq Zharfann Bin Zalmann
@@ -45,15 +41,11 @@
   status : building · available for freelance
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=1&pause=99999&color=00e5ff&center=true&vCenter=true&repeat=false&width=680&height=20&lines=──────────────────────────────────────────────────────────────────" />
-</div>
-
 <br/>
 
 ---
 
-<!-- ANIMATED SKILL ICONS -->
+<!-- SKILL ICONS — confirmed stable service -->
 <div align="center">
 
 ### `⚡ stack`
@@ -64,11 +56,11 @@
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,wordpress&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,wordpress&theme=dark&perline=4" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nginx&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,nginx&theme=dark&perline=6" />
 
 </div>
 
@@ -76,14 +68,14 @@
 
 ---
 
-<!-- ANIMATED TROPHIES -->
+<!-- TROPHIES — reduced column, more stable -->
 <div align="center">
 
 ### `🏆 trophies`
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=aniqzharfannzalmann&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=aniqzharfannzalmann&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -91,7 +83,7 @@
 
 ---
 
-<!-- SHIPPED TABLE -->
+<!-- SHIPPED -->
 ### `📦 shipped — production`
 
 > real systems, real users, still running
@@ -108,14 +100,14 @@
 
 ---
 
-<!-- WIP AS CODE -->
+<!-- WIP -->
 ### `🔨 currently building`
 
 ```js
 const wip = [
-  { name: "JomEnvois",   stack: "React + Vite",   desc: "minimal invoice generator"         },
-  { name: "FammyTech",   stack: "Next.js 14",      desc: "phone repair shop landing page"    },
-  { name: "Jombina v2",  stack: "Next.js + FM",    desc: "agency site — full refresh"        },
+  { name: "JomEnvois",   stack: "React + Vite",   desc: "minimal invoice generator"        },
+  { name: "FammyTech",   stack: "Next.js 14",      desc: "phone repair shop landing page"   },
+  { name: "Jombina v2",  stack: "Next.js + FM",    desc: "agency site — full refresh"       },
 ]
 ```
 
@@ -123,7 +115,7 @@ const wip = [
 
 ---
 
-<!-- STATS SECTION -->
+<!-- STATS -->
 <div align="center">
 
 ### `📊 stats`
@@ -148,18 +140,54 @@ const wip = [
 
 ---
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
+<!-- SNAKE — placeholder until Actions setup, shown as coming soon -->
 <div align="center">
 
 ### `🐍 contributions`
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniqzharfannzalmann/aniqzharfannzalmann/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniqzharfannzalmann/aniqzharfannzalmann/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/aniqzharfannzalmann/aniqzharfannzalmann/output/github-snake-dark.svg" />
-</picture>
+> ⚙️ *snake animation generates after GitHub Actions is configured — setup guide below*
+
+<br/>
+
+<details>
+<summary><b>click — how to enable snake 🐍</b></summary>
+<br/>
+
+1. In this repo, create `.github/workflows/snake.yml`
+2. Paste this content:
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Go to **Actions tab → Generate Snake → Run workflow**
+4. Done — snake will appear here automatically
+
+</details>
 
 </div>
 
@@ -184,5 +212,5 @@ const wip = [
 
 <br/>
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0010,50:3d0066,100:0d0010&height=100&section=footer&animation=fadeIn" />
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0010,50:3d0066,100:0d0010&height=100&section=footer" />
