@@ -104,16 +104,16 @@ VS Code · Figma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniqzharfannzalmann&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=c026d3&icon_color=06b6d4&text_color=e2e8f0&count_private=true&rank_icon=github" height="155"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqzharfannzalmann&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=c026d3&text_color=e2e8f0&langs_count=6" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aniqzharfannzalmann&show_icons=true&hide_border=true&theme=outrun&count_private=true&rank_icon=github" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqzharfannzalmann&layout=compact&hide_border=true&theme=outrun&langs_count=6" height="155"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniqzharfannzalmann&hide_border=true&background=0d0d0f&ring=c026d3&fire=f0abfc&currStreakLabel=06b6d4&sideLabels=a855f7&dates=6b7280" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniqzharfannzalmann&hide_border=true&theme=outrun" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniqzharfannzalmann&bg_color=0d0d0f&color=a855f7&line=c026d3&point=06b6d4&area=true&hide_border=true&area_color=c026d3" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniqzharfannzalmann&theme=outrun&hide_border=true&area=true" />
 
 </div>
 
