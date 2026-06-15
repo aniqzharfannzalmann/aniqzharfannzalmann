@@ -1,80 +1,82 @@
-<picture>
-  <!-- Mobile Header (Compact) -->
-  <source media="(max-width: 799px)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:004d40,100:00e676&height=150&section=header&text=Aniq%20Zharfann&fontSize=40&fontColor=fff&animation=fadeIn" />
-  <!-- Desktop Header (Wide) -->
-  <source media="(min-width: 800px)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:004d40,100:00e676&height=250&section=header&text=Aniq%20Zharfann&fontSize=70&fontColor=fff&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:004d40,100:00e676&height=250&section=header&text=Aniq%20Zharfann&fontSize=70&fontColor=fff&animation=fadeIn" alt="Header" />
-</picture>
-
+<!-- FROSTED GLASS HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E676&center=true&vCenter=true&width=600&lines=Web+Developer;Building+Eco-Friendly+Digital+Solutions;Open+Source+Enthusiast;Welcome+to+my+Profile" alt="Typing SVG" />
-</div>
-
----
-
-### 🌿 About Me
-<div align="center">
-  <sub>Building sustainable and efficient web experiences.</sub>
-</div>
-
-- 🔭 **Currently working on:** [Length Conversion Tool](https://github.com/aniqzharfannzalmann/lenght-conversion)
-- 🌱 **Currently learning:** Advanced Front-end Architecture & UI/UX Design
-- 👯 **Looking to collaborate on:** Open-source web utilities and eco-tech projects
-- 💬 **Ask me about:** HTML5, CSS3, JavaScript, and Web Fundamentals
-- ⚡ **Fun fact:** I believe in writing clean code that leaves a minimal digital carbon footprint!
-
----
-
-### 💻 Tech Arsenal
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" alt="JavaScript" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/html-icon.svg" width="65" height="65" alt="HTML" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/css-icon.svg" width="65" height="65" alt="CSS" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-        <br>GitHub
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🏆 GitHub Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniqzharfannzalmann&theme=matrix&column=7&margin-w=15&no-frame=true" alt="Trophies" />
-</div>
-
-### 📈 Advanced Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniqzharfannzalmann&bg_color=0d1117&color=00e676&line=00e676&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-### 🔗 Connect & Collaborate
-<div align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-00e676?style=for-the-badge&logo=mail.ru&logoColor=0d1117&logoWidth=20" alt="Email" />
-  </a>
-  <a href="https://github.com/aniqzharfannzalmann">
-    <img src="https://img.shields.io/badge/GitHub-00e676?style=for-the-badge&logo=github&logoColor=0d1117&logoWidth=20" alt="GitHub" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:141E30,100:243B55&height=250&section=header&text=Aniq%20Zharfann&fontSize=70&fontColor=f0f0f0&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Frontend+Developer+%7C+Web+Artisan;Crafting+clean+and+efficient+web+experiences;Constantly+learning%2C+constantly+building." alt="Typing SVG" />
 </div>
 
 <br>
 
+<!-- BENTO BOX DASHBOARD LAYOUT -->
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🚀 Current Focus</h3>
+      <ul align="left">
+        <li>Building responsive & accessible Web UI</li>
+        <li>Writing clean, maintainable JavaScript</li>
+        <li>Optimizing web performance & UX</li>
+        <li>Exploring modern frontend frameworks</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🎯 Active Goals</h3>
+      <ul align="left">
+        <li>Mastering advanced CSS animations</li>
+        <li>Contributing to major open-source projects</li>
+        <li>Building a full-stack web application</li>
+        <li>Improving algorithmic problem solving</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- PREMIUM TECH STACK (Minimalist 3D SVGs) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004d40,100:00e676&height=100&section=footer" />
+  <h2>🛠️ Tech Arsenal</h2>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,md,vscode,bash,figma,linux&theme=dark&perline=5" />
+</div>
+
+<br>
+
+<!-- ANALYTICS DASHBOARD (Tokyo Night Theme) -->
+<div align="center">
+  <h2>📊 Activity & Metrics</h2>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniqzharfannzalmann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniqzharfannzalmann&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=10" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=aniqzharfannzalmann&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
+
+<br>
+
+<!-- DYNAMIC DEVELOPER QUOTE -->
+<div align="center">
+  <h2>💡 Developer Philosophy</h2>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&font=Fira%20Code&border=true&borderColor=243B55" alt="Developer Quote" />
+</div>
+
+<br>
+
+<!-- FOOTER & CONNECT -->
+<div align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/aniqzharfannzalmann">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/aniqzharfannzalmann">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aniqzharfannzalmann&color=blueviolet&style=flat-square" />
+</div>
+
+<!-- SMOOTH WAVE FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=100&section=footer" />
 </div>
